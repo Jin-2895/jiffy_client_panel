@@ -1,0 +1,32 @@
+.slick-arrow::before {
+  color: black;
+}
+.slick-arrow {
+  top: 12rem;
+}
+
+.slick-prev:before {
+  font-size: 2rem;
+}
+
+.slick-next:before {
+  font-size: 2rem;
+}
+
+.slick-list {
+  left: 0.5rem;
+}
+
+.slick-track {
+  text-align: center;
+  margin: auto;
+}
+
+.slick-prev {
+  left: -2rem !important;
+  position: relative;
+}
+
+.slick-next {
+  right: -2.4rem !important;
+}
